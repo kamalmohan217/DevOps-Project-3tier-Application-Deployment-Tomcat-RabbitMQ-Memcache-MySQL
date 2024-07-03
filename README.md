@@ -77,7 +77,7 @@ The Screenshot for SonarQube Analysis and Nexus Artifacts Upload is as shown bel
 ![image](https://github.com/kamalmohan217/DevOps-Project-3tier-Application-Deployment-Tomcat-RabbitMQ-Memcache-MySQL/assets/128888356/bc6efcfb-9518-4855-8c3c-4783ee3611df)
 ![image](https://github.com/kamalmohan217/DevOps-Project-3tier-Application-Deployment-Tomcat-RabbitMQ-Memcache-MySQL/assets/128888356/2f14fe20-56c0-4821-bd3c-313048b31ad2)
 <br><br/>
-Do the entry in Route53 as shown in the screenshot below.
+Do the entry in Route53 hosted zone and create the record set as shown in the screenshot below.
 ![image](https://github.com/kamalmohan217/DevOps-Project-3tier-Application-Deployment-Tomcat-RabbitMQ-Memcache-MySQL/assets/128888356/9d7ff7ca-8cb3-4ae9-aeee-29519c2b0c1b)
 <br><br/>
 Finally screenshot shown below Access of the Application.
