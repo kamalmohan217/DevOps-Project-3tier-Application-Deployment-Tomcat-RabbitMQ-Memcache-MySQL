@@ -76,3 +76,12 @@ Before running the Jenkins Job change the **application.properties** file presen
 The Screenshot for SonarQube Analysis and Nexus Artifacts Upload is as shown below.
 ![image](https://github.com/kamalmohan217/DevOps-Project-3tier-Application-Deployment-Tomcat-RabbitMQ-Memcache-MySQL/assets/128888356/bc6efcfb-9518-4855-8c3c-4783ee3611df)
 ![image](https://github.com/kamalmohan217/DevOps-Project-3tier-Application-Deployment-Tomcat-RabbitMQ-Memcache-MySQL/assets/128888356/2f14fe20-56c0-4821-bd3c-313048b31ad2)
+<br><br/>
+Do the entry in Route53 as shown in the screenshot below.
+![image](https://github.com/kamalmohan217/DevOps-Project-3tier-Application-Deployment-Tomcat-RabbitMQ-Memcache-MySQL/assets/128888356/9d7ff7ca-8cb3-4ae9-aeee-29519c2b0c1b)
+<br><br/>
+Finally screenshot shown below Access of the Application.
+<br><br/>
+![image](https://github.com/kamalmohan217/DevOps-Project-3tier-Application-Deployment-Tomcat-RabbitMQ-Memcache-MySQL/assets/128888356/11e0c5a1-e065-479b-8735-c78f532b5539)
+![image](https://github.com/kamalmohan217/DevOps-Project-3tier-Application-Deployment-Tomcat-RabbitMQ-Memcache-MySQL/assets/128888356/773039a8-5c09-4611-a000-f342f8946538)
+![image](https://github.com/kamalmohan217/DevOps-Project-3tier-Application-Deployment-Tomcat-RabbitMQ-Memcache-MySQL/assets/128888356/b409394b-67a2-41be-84e4-3d4a5f17363c)
