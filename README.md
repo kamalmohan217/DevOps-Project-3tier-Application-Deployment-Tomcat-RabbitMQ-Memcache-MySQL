@@ -70,7 +70,7 @@ pipeline{
     }
 }
 ```
-Before running the Jenkins Job change the **application.properties** file present at the path Three-tier-WebApplication/src/main/resources in the Repository https://github.com/singhritesh85/Three-tier-WebApplication.git as shown in the screenshot below.
+Before running the Jenkins Job change the **application.properties** file present at the path Three-tier-WebApplication/src/main/resources in the Repository https://github.com/kamalmohan217/Three-tier-WebApplication.git as shown in the screenshot below.
 ![image](https://github.com/kamalmohan217/DevOps-Project-3tier-Application-Deployment-Tomcat-RabbitMQ-Memcache-MySQL/assets/128888356/2b2ae78e-20cb-4c1e-9123-11713a19c41c)
 <br><br/>
 The Screenshot for SonarQube Analysis and Nexus Artifacts Upload is as shown below.
