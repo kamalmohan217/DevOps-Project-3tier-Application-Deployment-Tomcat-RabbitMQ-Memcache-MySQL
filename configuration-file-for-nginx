@@ -30,4 +30,4 @@ upstream test {
    server 10.10.4.24:8080;
 }
 
-Provide the the certificate file and the specified path and restart the nginx service using the command systemctl restart nginx
+Provide the the certificate file at the specified path and restart the nginx service using the command systemctl restart nginx
